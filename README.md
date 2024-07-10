@@ -60,6 +60,8 @@ Expanding this project could involve incorporating additional datasets such as p
 
 This project utilizes data provided by the City of Vienna's open data initiative, which offers extensive resources for various geospatial and non-geospatial datasets.
 
+Thanks to Anita Graser for the inspiration!
+
 ---
 
 Feel free to use and adapt this analysis for your specific needs. The City of Vienna's data repository offers numerous opportunities for further exploration and innovation in geospatial data analysis.
